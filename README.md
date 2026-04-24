@@ -1,80 +1,39 @@
-# Hello, I’m Ramla 👋
+# Hi, I'm Ramla 👋
 
-> Passionate **Software Engineer** and lifelong learner at **ALX**, motivated by a vision to _"empower people and solve real-world problems through innovative tech solutions"_.
+Building my full-stack journey in public 🚀  
 
-
----
-
-## ✨ Fun Fact
-💡 _I believe every bug teaches a lesson, and every line of code tells a story!_
+📊 Started with Data Analytics (ALX)  
+💻 Now focused on Full-Stack Development  
+🔐 Curious about Cybersecurity & IT
 
 ---
 
-## ⚙️ My Toolbox
-<div align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS">
-</div>
+## ⚡ What I Believe
+
+I learn by building, not just watching tutorials.  
+Every project is a step toward becoming a better developer.
 
 ---
 
-## 📚 What I'm Learning
+## 🛠️ Current Focus
 
-<div align="center">
-  <table style="width: 80%; border-collapse: collapse;">
-    <thead>
-      <tr style="background-color: #f4f4f4;">
-        <th style="padding: 10px; text-align: left;">📘 Subject</th>
-        <th style="padding: 10px; text-align: left;">💡 Description</th>
-        <th style="padding: 10px; text-align: left;">🎯 Focus Area</th>
-      </tr>
-    </thead>
-    <tbody>
-      <tr>
-        <td style="padding: 10px;">🔧 C Language</td>
-        <td style="padding: 10px;">Diving into system-level programming to master memory management and pointers.</td>
-        <td style="padding: 10px;">Algorithm optimization</td>
-      </tr>
-      <tr style="background-color: #f9f9f9;">
-        <td style="padding: 10px;">💻 IT Basics</td>
-        <td style="padding: 10px;">Understanding core IT principles, troubleshooting, and networking fundamentals.</td>
-        <td style="padding: 10px;">Networking and hardware</td>
-      </tr>
-      <tr>
-        <td style="padding: 10px;">🔒 Cybersecurity</td>
-        <td style="padding: 10px;">Learning ethical hacking and mastering digital asset security techniques.</td>
-        <td style="padding: 10px;">Vulnerability assessment</td>
-      </tr>
-      <tr style="background-color: #f9f9f9;">
-        <td style="padding: 10px;">🎨 Graphic Designing</td>
-        <td style="padding: 10px;">Exploring creative tools to craft professional visuals and logos.</td>
-        <td style="padding: 10px;">Creative branding</td>
-      </tr>
-    </tbody>
-  </table>
-</div>
+- Full-stack development  
+- Real-world projects  
+- Understanding how systems work (and how to secure them)
 
 ---
 
-## ✨ Future Projects (Coming Soon)
+## 📌 Projects
 
-- **Portfolio Website**: A beautifully designed website to showcase my skills and projects.
-
----
-
-## 🌟 My Vision
-> _"Innovation in technology inspires me to create solutions that transform lives, one project at a time."_
+- Calculator App  (In Progress) 
+- Portfolio Website (In Progress)  
+- Data Analytics Work  (In Progress) 
 
 ---
+
+## 🎯 Mission
+
+To become a developer who builds things that actually work — and scale.
 
 ## 📬 Let’s Connect
 
